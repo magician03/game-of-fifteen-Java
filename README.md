@@ -5,4 +5,8 @@ Game Of Fifteen with richer features.
 
 Checkout the presentation and UML diagrams to better understanding about the project.
 
+Project by:
+* magician03[https://github.com/magician03]
+* hacker7897iiita[https://github.com/hacker7897iiita]
+
 MIT License
